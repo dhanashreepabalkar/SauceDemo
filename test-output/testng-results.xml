@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-10T13:42:55 IST" name="RegressionSuite" finished-at="2022-08-10T13:43:03 IST" duration-ms="8373">
+    <groups>
+    </groups>
+    <test started-at="2022-08-10T13:42:55 IST" name="Test" finished-at="2022-08-10T13:43:03 IST" duration-ms="8373">
+      <class name="com.SauceDemo.TestPackage.TC0002VerifyLogout">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.SauceDemo.TestPackage.TC0002VerifyLogout@28f2a10f]" started-at="2022-08-10T13:42:55 IST" name="setUp" finished-at="2022-08-10T13:43:01 IST" duration-ms="6415" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLogoutFuctionality()[pri:0, instance:com.SauceDemo.TestPackage.TC0002VerifyLogout@28f2a10f]" started-at="2022-08-10T13:43:01 IST" name="verifyLogoutFuctionality" finished-at="2022-08-10T13:43:02 IST" duration-ms="1002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoutFuctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SauceDemo.TestPackage.TC0002VerifyLogout@28f2a10f]" started-at="2022-08-10T13:43:02 IST" name="tearDown" finished-at="2022-08-10T13:43:03 IST" duration-ms="908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SauceDemo.TestPackage.TC0002VerifyLogout -->
+      <class name="com.SauceDemo.TestPackage.TC0001VerifyLogin">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.SauceDemo.TestPackage.TC0001VerifyLogin@d29f28]" started-at="2022-08-10T13:42:55 IST" name="setUp" finished-at="2022-08-10T13:43:02 IST" duration-ms="6675" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginFunctionality()[pri:0, instance:com.SauceDemo.TestPackage.TC0001VerifyLogin@d29f28]" started-at="2022-08-10T13:43:02 IST" name="verifyLoginFunctionality" finished-at="2022-08-10T13:43:02 IST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SauceDemo.TestPackage.TC0001VerifyLogin@d29f28]" started-at="2022-08-10T13:43:02 IST" name="tearDown" finished-at="2022-08-10T13:43:03 IST" duration-ms="1596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SauceDemo.TestPackage.TC0001VerifyLogin -->
+      <class name="com.SauceDemo.TestPackage.TC0003VerifyBag">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.SauceDemo.TestPackage.TC0003VerifyBag@f736069]" started-at="2022-08-10T13:42:55 IST" name="setUp" finished-at="2022-08-10T13:43:02 IST" duration-ms="6867" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifybagproduct()[pri:0, instance:com.SauceDemo.TestPackage.TC0003VerifyBag@f736069]" started-at="2022-08-10T13:43:02 IST" name="verifybagproduct" finished-at="2022-08-10T13:43:03 IST" duration-ms="904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifybagproduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SauceDemo.TestPackage.TC0003VerifyBag@f736069]" started-at="2022-08-10T13:43:03 IST" name="tearDown" finished-at="2022-08-10T13:43:03 IST" duration-ms="531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SauceDemo.TestPackage.TC0003VerifyBag -->
+      <class name="com.SauceDemo.TestPackage.TC0004VerifyMultiProduct">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.SauceDemo.TestPackage.TC0004VerifyMultiProduct@6da21078]" started-at="2022-08-10T13:42:55 IST" name="setUp" finished-at="2022-08-10T13:43:01 IST" duration-ms="6239" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyMultiProduct()[pri:0, instance:com.SauceDemo.TestPackage.TC0004VerifyMultiProduct@6da21078]" started-at="2022-08-10T13:43:01 IST" name="verifyMultiProduct" finished-at="2022-08-10T13:43:03 IST" duration-ms="1842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMultiProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SauceDemo.TestPackage.TC0004VerifyMultiProduct@6da21078]" started-at="2022-08-10T13:43:03 IST" name="tearDown" finished-at="2022-08-10T13:43:03 IST" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SauceDemo.TestPackage.TC0004VerifyMultiProduct -->
+    </test> <!-- Test -->
+  </suite> <!-- RegressionSuite -->
+</testng-results>

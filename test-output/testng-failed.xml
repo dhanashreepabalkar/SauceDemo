@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [mainSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.SauceDemo.TestPackage.TC0002VerifyLogout">
+        <methods>
+          <include name="setUp"/>
+          <include name="verifyLogoutFuctionality"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TestPackage.TC0002VerifyLogout -->
+      <class name="com.SauceDemo.TestPackage.TC0003VerifyBag">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="verifybagproduct"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TestPackage.TC0003VerifyBag -->
+      <class name="com.SauceDemo.TestPackage.TC0001VerifyLogin">
+        <methods>
+          <include name="setUp"/>
+          <include name="verifyLoginFunctionality"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TestPackage.TC0001VerifyLogin -->
+      <class name="com.SauceDemo.TestPackage.TC0004VerifyMultiProduct">
+        <methods>
+          <include name="setUp"/>
+          <include name="verifyMultiProduct"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TestPackage.TC0004VerifyMultiProduct -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [mainSuite] -->
